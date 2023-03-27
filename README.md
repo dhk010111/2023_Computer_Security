@@ -7,4 +7,4 @@
 
 ### Week2. Brute Force Attack
 - Password Generation
-- Password Craking using Brute Force
+- Password Craking using Brute Force Attack
