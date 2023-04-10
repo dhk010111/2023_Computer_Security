@@ -12,3 +12,8 @@
 ### Week3. Casesar Cipher Cracking Program
 - Caesar Cipher
 - Transposition Cipher
+
+### Week4. Memory Segment and SetUID
+- Program Memory Segment
+- Object file Linking
+- SetUID Program
