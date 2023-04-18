@@ -17,3 +17,10 @@
 - Program Memory Segment
 - Object file Linking
 - SetUID Program
+
+### Week5. Malware & BOF
+- File Verification
+- Virus Signature
+- Finding Malware
+- Rootkit
+- Buffer Overflow(BOF) //문제가 많음..
