@@ -23,4 +23,33 @@
 - Virus Signature
 - Finding Malware
 - Rootkit
-- Buffer Overflow(BOF) //문제가 많음..
+- Buffer Overflow(BOF) //X
+
+### Week6. (Project1) AntiVirus Veccine
+
+### Week7. (Project1) AntiVirus Veccine-2
+
+### Week8. Midterm Exam
+
+### Week9. Network Security
+- WireShark
+- Packet
+
+### Week10. Network Security
+- Snort
+- Vistumbler
+
+### Week11. (Project3) Backdoor Program
+- Backdoor program
+- Overflow
+
+### Week12. (Project3) Backdoor Program-2
+
+### Week13. Security Scenario
+- SQL Injection
+- XSS
+- Deserialization
+
+### Week14. 
+
+### Week15. Final Exam
