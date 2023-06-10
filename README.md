@@ -25,9 +25,9 @@
 - Rootkit
 - Buffer Overflow(BOF) //X
 
-### Week6. (Project1) AntiVirus Veccine
+### Week6. (Project1) AntiVirus Vaccine
 
-### Week7. (Project1) AntiVirus Veccine-2
+### Week7. (Project1) AntiVirus Vaccine-2
 
 ### Week8. Midterm Exam
 
